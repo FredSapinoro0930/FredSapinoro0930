@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Fredrick John Sapinoro**
 
 ## 🎓 Education
-- **BS Computer Science**  
+- **BS Information Technology**  
   New Era University  
   2024–Present  
 
