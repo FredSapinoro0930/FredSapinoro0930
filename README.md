@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**FredSapinoro0930/FredSapinoro0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Education**
 
-Here are some ideas to get you started:
+BS Computer Science
+New Era University
+2024–Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🏆 Certifications**
+
+- SQL and Relational Databases 101 (CognitiveClass.ai)
+
+
+**🛠️ Skill Sets**
+
+Programming: Java, JavaScript
+Databases: SQL
+Tools: Lucidchart, Eclipse, HTML
+
+
+📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:fredrickjohnsapinoro@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge)](https://www.facebook.com/fredrick.sapinoro.96)
