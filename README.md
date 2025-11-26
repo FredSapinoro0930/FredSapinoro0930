@@ -1,13 +1,12 @@
 # 👋 Hi, I'm **Fredrick John Sapinoro**
 
 ## 🎓 Education
-- **BS Information Technology**  
+- **BS Computer Science**  
   New Era University  
   2024–Present  
 
-## 🧾 Certifications
--  **Wait lng ho**
-
+## 🏆 Certifications
+- 📘 [SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f7c0af99e4754c168ba7850201fb8f1f)
 
 ## 🛠️ Skill Sets
 - **Programming:** Java, JavaScript  
