@@ -12,7 +12,7 @@
 - **Programming:** Java, JavaScript  
 - **Databases:** SQL  
 - **Tools:** Lucidchart, Eclipse  
-- **Web:** HTML  
+- **Web:** HTML, CSS
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrickjohnsapinoro@gmail.com)  
