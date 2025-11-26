@@ -7,7 +7,7 @@
 
 ## 🏆 Certifications
 
-- SQL and Relational Databases 101 (CognitiveClass.ai)
+- alaws pa
 
 
 ## 🛠️ Skill Sets
