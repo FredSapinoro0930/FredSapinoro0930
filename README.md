@@ -6,8 +6,8 @@
   2024–Present  
 
 ## 🏆 Certifications
-- 📘 *Currently taking:* SQL & Relational Databases 101 – CognitiveClass.ai  
-  *(Certificate link will be added soon)*
+-  **Wait lng ho**
+
 
 ## 🛠️ Skill Sets
 - **Programming:** Java, JavaScript  
