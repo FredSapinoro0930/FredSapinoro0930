@@ -11,7 +11,7 @@
 ## 🛠️ Skill Sets
 - **Programming:** Java, JavaScript  
 - **Databases:** SQL  
-- **Tools:** Lucidchart, Eclipse  
+- **Tools:** Lucidchart, Eclipse. Figma, VS Code
 - **Web:** HTML, CSS
 
 ## 📬 Contact
