@@ -5,7 +5,7 @@
   New Era University  
   2024–Present  
 
-## 🏆 Certifications
+## 🧾 Certifications
 -  **Wait lng ho**
 
 
