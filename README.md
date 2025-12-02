@@ -7,9 +7,6 @@
 
 ## 🏆 Certifications
 - 📘 [SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f7c0af99e4754c168ba7850201fb8f1f)
-- 📘 [Introduction to Graphic Design; Basics of UI/UX](https://simpli-web.app.link/e/aBj14lelKYb)
-- 📘 [Full-Stack Development 101](https://simpli-web.app.link/e/a5EjOr8mKYb)
-- 📘 [Web Designing Basics](https://simpli-web.app.link/e/pWOpUL8pKYb)
 
 ## 🛠️ Skill Sets
 - **Programming:** Java, JavaScript  
