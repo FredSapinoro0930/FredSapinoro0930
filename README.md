@@ -9,6 +9,7 @@
 - 📘 [SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f7c0af99e4754c168ba7850201fb8f1f)
 - 📘 [Oracle Cloud Infrastructure 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=519168C24006D0424D565D13C22CB96217C0A5694EF5FC5A6129C7A234D56589)
 - 📘 [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7842693C83457E3E34B8814DC1DB029C30A0819ACC505FB424126A36460ACB05)
+- 📘 [Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7842693C83457E3E34B8814DC1DB029C30A0819ACC505FB424126A36460ACB05)
 
 ## 🛠️ Skill Sets
 - **Programming:** Java, JavaScript  
