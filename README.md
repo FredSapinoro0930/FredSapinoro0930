@@ -12,7 +12,7 @@
 - 📘 [Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9AF37E9F29BBDADE5ABCA94C3548C2856AA05DAE6F96C50B53EC0AE4A966693)
 
 ## 🛠️ Skill Sets
-- **Programming:** Java, JavaScript  
+- **Programming:** Java, JavaScript, Python
 - **Databases:** SQL  
 - **Tools:** Lucidchart, Eclipse. Figma, VS Code
 - **Web:** HTML, CSS
